@@ -1,0 +1,22 @@
+{
+  "name": "css-interview-question-create-a-responsive-ad-based-off-an-image",
+  "version": "1.0.0",
+  "description": "This is a real interview question I received today for a take-home assignment. \n\nI was given 2 days to complete it.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "css3",
+    "css interview",
+    "responsive design",
+    "css",
+    "code interview"
+  ]
+}
